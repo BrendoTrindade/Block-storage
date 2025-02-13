@@ -34,7 +34,7 @@ spec:
           - name: POSTGRES_USER
             value: "kubenews"
           - name: POSTGRES_PASSWORD
-            value: "pq123"  
+            value: "sua senha"  
           - name: PGDATA
             value: /var/lib/postgresql/data/pgdata
           volumeMounts:
